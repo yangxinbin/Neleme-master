@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Neleme-master.iml" filepath="$PROJECT_DIR$/Neleme-master.iml" />
+      <module fileurl="file://D:\workspace\Neleme-master\waimai_app\app.iml" filepath="D:\workspace\Neleme-master\waimai_app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waimaidetail/waimai_app.iml" filepath="$PROJECT_DIR$/waimaidetail/waimai_app.iml" />
+    </modules>
+  </component>
+</project>
